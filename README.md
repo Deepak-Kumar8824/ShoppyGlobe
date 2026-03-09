@@ -1,3 +1,15 @@
+# ShoppyGlobe E-Commerce App
+
+This project is built using React + Redux Toolkit.
+
+Features:
+- Product listing
+- Product details
+- Cart functionality
+- Checkout
+- Search feature
+- Lazy loading
+Github = https://github.com/Deepak-Kumar8824/ShoppyGlobe
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
