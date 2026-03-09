@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 import { setSearch } from "../redux/cartSlice";
-
+// 
 function Header(){
 
 const dispatch = useDispatch();
