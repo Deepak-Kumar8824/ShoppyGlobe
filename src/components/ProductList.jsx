@@ -12,7 +12,7 @@ function ProductList() {
   const filteredProducts = products.filter(p =>
     p.title.toLowerCase().includes(search.toLowerCase())
   );
-
+// 
   return (
 
     <div className="product-list">
