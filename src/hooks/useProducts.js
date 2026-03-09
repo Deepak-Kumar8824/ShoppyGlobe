@@ -4,7 +4,7 @@ function useProducts() {
 
   const [products, setProducts] = useState([]);
   const [error, setError] = useState(null);
-
+// 
   useEffect(() => {
 
     fetch("https://dummyjson.com/products")
